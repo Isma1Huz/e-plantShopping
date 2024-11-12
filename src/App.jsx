@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 
 import React, { useState } from 'react';
 import ProductList from './ProductList';
@@ -40,6 +41,3 @@ function App() {
 }
 
 export default App;
-
-
-
